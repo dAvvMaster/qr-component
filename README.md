@@ -25,7 +25,7 @@ The challenge was to design a qr-component and make it look like the design prov
 
 ### Links
 
-- Solution URL: [Solution url](https://github.com/dAvvMaster/qr-component.git))
+- Solution URL: ([Solution url](https://github.com/dAvvMaster/qr-component.git))
 - Live Site URL: ([Live url](https://davvmaster.github.io/qr-component/))
 
 ### Built with
