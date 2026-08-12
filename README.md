@@ -20,7 +20,7 @@ The challenge was to design a qr-component and make it look like the design prov
 
 ### Screenshot
 
-![![qr-componet](image-1.png)](./screenshot.jpg)
+![qr-component](./qr-component.png)
 
 
 ### Links
