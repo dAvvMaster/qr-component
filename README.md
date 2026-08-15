@@ -16,11 +16,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-The challenge was to design a qr-component and make it look like the design provided as close as possible. It really enforces some of your css skills and html semantics.
+The challenge was to design a qr-component and make it look like the design provided as close as possible. It really enforces some of your css skills and html semantics. You get to practise some of the mostly used styles like flex-box and even different methods of designing. You also get to practise importing fonts and some accessibilty methods.
 
 ### Screenshot
 
-![qr-component](./qr-component.png)
+![qr-component](./Screenshot.png)
 
 
 ### Links
@@ -36,7 +36,7 @@ The challenge was to design a qr-component and make it look like the design prov
 
 ### What I learned
 
-I have learned so much than i expected to in this project. The first thing that i learned was centering the qr-box using flex-box required me to put it in another div container and the div container was the one I needed to center first. It took me alot of time to figure that one out sadly but I was really glad to be able to have that knowledge. Another thing that I learned was how to import a font from google fonts, the font that I imported was 'Montserrat' because I felt like that was the one which was really close to the example design.
+I have learned so much than i expected to in this project. The first thing that i learned was centering the qr-box using flex-box required me to put it in another div container and the div container was the one I needed to center first. It took me alot of time to figure that one out sadly but I was really glad to be able to have that knowledge. Another thing that I learned was how to import a font from google fonts, the font that I imported was 'Outfit' and I am looking foward to doing that in my next projects. 
 
 
 ```html
