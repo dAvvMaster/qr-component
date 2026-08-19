@@ -66,6 +66,6 @@ I was not really heavy on AI but I used co-pilot for brainstorming some of the i
 
 ## Author
 
-- Frontend Mentor - [Davis Osebe](https://www.frontendmentor.io/profile/Davis Osebe)
-- Twitter - [@davv_cyber](https://www.twitter.com/@davv_cyber)
+- Frontend Mentor - [dAvvMaster](https://www.frontendmentor.io/dAvvMaster)
+- Twitter - [@davv_cyber](https://www.twitter.com/davv_cyber)
 
